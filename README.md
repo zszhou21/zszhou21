@@ -4,7 +4,7 @@ I'm Zishu Zhou (周子舒), currently an undergraduate student at the College of
 
 ## 🔎 Research Interests
 
-- **Federated Learning**: Model-Heterogeneous Federated Learning, Federated Semi-Supervised Learning, Federated Time Series Classification
+- **Federated Learning**: Model-Heterogeneous Federated Learning, Federated Semi-Supervised Learning
 
 ## 💪 Skills
 
