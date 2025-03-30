@@ -1,6 +1,6 @@
 ## 😆 Hi there!
 
-I'm Zishu Zhou (周子舒), currently an undergraduate student at the College of Computer Science and Software Engineering, Hohai University.
+I'm Zishu Zhou (周子舒), currently an undergraduate student majoring Computer Science and Technology at the College of Computer Science and Software Engineering, Hohai University.
 
 ## 🔎 Research Interests
 
