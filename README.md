@@ -3,7 +3,7 @@
   [![](https://capsule-render.vercel.app/api?type=cylinder&height=120&color=0:D22229,100:2B4FA3&text=Hi,%20I'm%20Zishu%20Zhou%20(周子舒)%20👋&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlignY=55)](https://zszhou.com)
 
   <p style="font-size: 12px">
-    🏠 <a href="https://zszhou.com" target="_blank">Homepage</a> &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 <a href="https://scholar.google.com/citations?user=elCvxwgAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;&nbsp; | &nbsp;&nbsp; <img src="assets/images/orcid.svg" style="width: 17px"> <a href="https://orcid.org/0009-0005-9727-3682" target="_blank">ORCID</a>
+    <a href="https://zszhou.com" target="_blank">🏠 Homepage</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=elCvxwgAAAAJ&hl=en" target="_blank">🎓 Google Scholar</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://orcid.org/0009-0005-9727-3682" target="_blank"><img src="assets/images/orcid.svg" style="width: 17px"> ORCID</a>
   </p>
   <hr>
 </div>
