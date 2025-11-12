@@ -15,7 +15,7 @@
 
 📫 How to reach me: [zszhou21@gmail.com](mailto:zszhou21@gmail.com) (for academic services), [zszhoucs@icloud.com](mailto:zszhoucs@icloud.com) (for personal affairs).
 
-💪 Skills: Web Development (GoLang, NodeJS, PHP, JavaScript, MySQL), Machine Learning (Python, PyTorch, Numpy)
+💪 Skills: **Web Development** (GoLang, NodeJS, PHP, JavaScript, MySQL), **Machine Learning** (Python, PyTorch, Numpy)
 
 ## 📑 Papers
 
