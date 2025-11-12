@@ -9,7 +9,7 @@
 </div>
 
 
-🌱 I'm currently a 3th-year undergraduate student majoring **Computer Science and Technology** at the College of Computer Science and Software Engineering, <img src="assets/images/hhu_logo.svg" style="width: 1em;"> [Hohai University](https://www.hhu.edu.cn/).
+🌱 I'm currently a 3rd-year undergraduate student majoring **Computer Science and Technology** at the College of Computer Science and Software Engineering, <img src="assets/images/hhu_logo.svg" style="width: 1em;"> [Hohai University](https://www.hhu.edu.cn/).
 
 🔭 I'm currently focussed on **Distributed Learning Systems** and **Transfer Learning**.
 
