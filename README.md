@@ -13,7 +13,7 @@
 
 🔭 I'm currently focussed on **Distributed Learning Systems** and **Transfer Learning**.
 
-📫 How to reach me: [zszhou21@gmail.com](mailto:zszhou21@gmail.com) (*for academic services*), [zszhoucs@icloud.com](mailto:zszhoucs@icloud.com) (*for personal affairs*).
+📫 How to reach me: [zszhou21@gmail.com](mailto:zszhou21@gmail.com).
 
 💪 Skills: **Web Development** (GoLang, NodeJS, PHP, JavaScript, MySQL), **Machine Learning** (Python, PyTorch, Numpy).
 
