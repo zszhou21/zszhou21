@@ -24,3 +24,5 @@
 ## 🔧 Open-source Projects
 
 - Z-BlogPHP (PHP-based Blog and CMS system): [[Code]](http://github.com/zhouzishu/zblogphp) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/zblogcn/zblogphp">
+
+> This GitHub Account is mainly for academic use. For my previous engineering projects, see [@zhouzishu](https://github.com/zhouzishu).
